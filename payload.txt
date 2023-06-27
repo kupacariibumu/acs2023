@@ -1,0 +1,1 @@
+[method] wss://[host] [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]
